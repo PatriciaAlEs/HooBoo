@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "../../styles/Navbar.css";
-import logo from "/workspaces/HooBoo/src/front/img/logo.png";
+import logo from '../../img/logo.png';
 import HoobooBanner from "./hooboo_banner.jsx";
 
 
